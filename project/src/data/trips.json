@@ -1,0 +1,231 @@
+[
+    {
+        "id": 1,
+        "destination": "Bali, Indonesia",
+        "country": "Indonesia",
+        "price": 800,
+        "duration": "7 days",
+        "rating": 4.8,
+        "reviews": 234,
+        "category": "Beach",
+        "images": [
+            "https://images.pexels.com/photos/2474689/pexels-photo-2474689.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Experience the magic of Bali with pristine beaches, ancient temples, and vibrant culture.",
+        "highlights": [
+            "Uluwatu Temple",
+            "Nusa Dua Beach",
+            "Local Markets",
+            "Spa Treatments"
+        ],
+        "itinerary": [
+            "Day 1: Arrival in Bali - Welcome dinner at beachfront restaurant",
+            "Day 2: Visit to Uluwatu Temple - Sunset Kecak dance performance",
+            "Day 3: Snorkeling at Nusa Dua - Explore underwater coral gardens",
+            "Day 4: Local market tour - Cooking class with traditional dishes",
+            "Day 5: Spa day - Traditional Balinese massage and treatments",
+            "Day 6: Beach relaxation - Water sports and sunset viewing",
+            "Day 7: Departure - Last-minute shopping at Ubud markets"
+        ],
+        "included": [
+            "7 nights accommodation",
+            "Daily breakfast",
+            "Airport transfers",
+            "Guided tours"
+        ],
+        "minPrice": 600,
+        "maxPrice": 1200
+    },
+    {
+        "id": 2,
+        "destination": "Kyoto, Japan",
+        "country": "Japan",
+        "price": 1200,
+        "duration": "5 days",
+        "rating": 4.7,
+        "reviews": 189,
+        "category": "Cultural",
+        "images": [
+            "https://images.pexels.com/photos/161251/fushimi-inari-taisha-kyoto-japan-temple-161251.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/248195/pexels-photo-248195.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Discover ancient Japan in Kyoto with traditional temples, gardens, and cultural experiences.",
+        "highlights": [
+            "Kinkaku-ji Temple",
+            "Bamboo Grove",
+            "Geisha District",
+            "Tea Ceremony"
+        ],
+        "itinerary": [
+            "Day 1: Arrival in Kyoto - Check-in and orientation walk",
+            "Day 2: Tour of Kinkaku-ji Temple - Golden Pavilion photography",
+            "Day 3: Cherry blossom viewing - Maruyama Park picnic",
+            "Day 4: Local food experience - Street food tour in Pontocho",
+            "Day 5: Departure - Last temple visit and souvenir shopping"
+        ],
+        "included": [
+            "5 nights ryokan stay",
+            "Traditional breakfast",
+            "JR Pass",
+            "Cultural activities"
+        ],
+        "minPrice": 900,
+        "maxPrice": 1800
+    },
+    {
+        "id": 3,
+        "destination": "Santorini, Greece",
+        "country": "Greece",
+        "price": 950,
+        "duration": "6 days",
+        "rating": 4.9,
+        "reviews": 312,
+        "category": "Beach",
+        "images": [
+            "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/161901/santorini-oia-greece-water-161901.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Experience the stunning beauty of Santorini with white-washed buildings and azure seas.",
+        "highlights": [
+            "Oia Sunset",
+            "Red Beach",
+            "Wine Tasting",
+            "Caldera Views"
+        ],
+        "itinerary": [
+            "Day 1: Arrival - Explore Fira town and caldera views",
+            "Day 2: Oia village tour - Famous sunset viewing",
+            "Day 3: Beach day - Red Beach and Kamari Beach",
+            "Day 4: Wine tasting tour - Local vineyards and tastings",
+            "Day 5: Boat excursion - Volcanic islands exploration",
+            "Day 6: Departure - Last shopping in Fira"
+        ],
+        "included": [
+            "6 nights cave hotel",
+            "Daily breakfast",
+            "Airport transfers",
+            "Wine tour"
+        ],
+        "minPrice": 700,
+        "maxPrice": 1400
+    },
+    {
+        "id": 4,
+        "destination": "Machu Picchu, Peru",
+        "country": "Peru",
+        "price": 1100,
+        "duration": "8 days",
+        "rating": 4.6,
+        "reviews": 156,
+        "category": "Adventure",
+        "images": [
+            "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/2356037/pexels-photo-2356037.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Trek to the ancient Incan citadel of Machu Picchu through breathtaking Andean landscapes.",
+        "highlights": [
+            "Machu Picchu Trek",
+            "Sacred Valley",
+            "Cusco City",
+            "Incan Ruins"
+        ],
+        "itinerary": [
+            "Day 1: Arrival in Lima - City tour and welcome dinner",
+            "Day 2: Fly to Cusco - Acclimatization day",
+            "Day 3: Sacred Valley tour - Pisac and Ollantaytambo",
+            "Day 4: Train to Aguas Calientes - Machu Picchu base",
+            "Day 5: Machu Picchu sunrise - Guided tour of ruins",
+            "Day 6: Return to Cusco - Free afternoon",
+            "Day 7: Cusco city tour - San Pedro market visit",
+            "Day 8: Departure - Flight back to Lima"
+        ],
+        "included": [
+            "8 nights hotels",
+            "Daily breakfast",
+            "Train tickets",
+            "Expert guide"
+        ],
+        "minPrice": 850,
+        "maxPrice": 1600
+    },
+    {
+        "id": 5,
+        "destination": "Reykjavik, Iceland",
+        "country": "Iceland",
+        "price": 1300,
+        "duration": "6 days",
+        "rating": 4.5,
+        "reviews": 198,
+        "category": "Adventure",
+        "images": [
+            "https://images.pexels.com/photos/1559825/pexels-photo-1559825.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/2363807/pexels-photo-2363807.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1771832/pexels-photo-1771832.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Discover Iceland's natural wonders including waterfalls, geysers, and the Northern Lights.",
+        "highlights": [
+            "Northern Lights",
+            "Blue Lagoon",
+            "Golden Circle",
+            "Glacier Walks"
+        ],
+        "itinerary": [
+            "Day 1: Arrival in Reykjavik - City exploration",
+            "Day 2: Golden Circle tour - Geysir and Gullfoss",
+            "Day 3: South Coast - Seljalandsfoss and black beaches",
+            "Day 4: Blue Lagoon spa - Relaxation day",
+            "Day 5: Northern Lights hunt - Evening tour",
+            "Day 6: Departure - Last-minute souvenir shopping"
+        ],
+        "included": [
+            "6 nights hotel",
+            "Daily breakfast",
+            "Blue Lagoon entry",
+            "Northern Lights tour"
+        ],
+        "minPrice": 1000,
+        "maxPrice": 2000
+    },
+    {
+        "id": 6,
+        "destination": "Dubai, UAE",
+        "country": "UAE",
+        "price": 750,
+        "duration": "5 days",
+        "rating": 4.4,
+        "reviews": 267,
+        "category": "Luxury",
+        "images": [
+            "https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800"
+        ],
+        "description": "Experience luxury and modern marvels in Dubai with world-class shopping and dining.",
+        "highlights": [
+            "Burj Khalifa",
+            "Desert Safari",
+            "Dubai Mall",
+            "Palm Jumeirah"
+        ],
+        "itinerary": [
+            "Day 1: Arrival - Dubai Marina and JBR Beach",
+            "Day 2: Burj Khalifa - Dubai Mall and fountain show",
+            "Day 3: Desert safari - Dune bashing and BBQ dinner",
+            "Day 4: Palm Jumeirah - Atlantis and luxury beach clubs",
+            "Day 5: Departure - Last-minute shopping at Gold Souk"
+        ],
+        "included": [
+            "5 nights luxury hotel",
+            "Daily breakfast",
+            "Desert safari",
+            "City transfers"
+        ],
+        "minPrice": 550,
+        "maxPrice": 1200
+    }
+]
